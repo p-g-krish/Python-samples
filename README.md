@@ -1,4 +1,4 @@
 # Python-samples
 Python - work samples
 
-Test server
+1.Pdf and Xlsx extension Checking script

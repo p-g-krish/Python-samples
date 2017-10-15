@@ -1,0 +1,16 @@
+#div1 {
+ float:left;width: 10%;background-color:red;
+  margin-bottom: :10px;
+  margin-top:10px;
+  margin-right:10px;
+  margin-left:10px;
+ }
+
+ #div2 {
+
+ 	float:left;width: 10%;background-color:green;
+ }
+
+ #div3{
+ 	width: 100%;background-color:blue;border-style: solid;
+ }

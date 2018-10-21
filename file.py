@@ -4,7 +4,6 @@
 '''
 For Teaching file handling in python
 on 21/10/18
-by kumar
 '''
 
 '''

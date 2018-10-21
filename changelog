@@ -1,1 +1,5 @@
-1.file handling in python added on 21-oct-18
+1.file handling in python added on based on input open method-21-oct-18
+
+2.checking objects inside the folder is file or dir based on os module21-0ct-18
+
+3.checking file extension based on string endswith method

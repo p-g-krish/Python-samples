@@ -3,3 +3,4 @@
 2.checking objects inside the folder is file or dir based on os module21-0ct-18
 
 3.checking file extension based on string endswith method
+4.Examples of list handling with extend,reverse,copy,pop

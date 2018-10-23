@@ -7,6 +7,19 @@ on 22/10/18
 
 '''
 List operations and basic property handling
+implemented methods
+1.append
+2.extend
+3.reverse
+4.copy
+5.pop
+6.clear
+7.count
+8.index
+9.insert
+10.remove
+---Need to implement
+11.sort
 '''
 
 a=[]
@@ -64,4 +77,43 @@ def listRemoveLast(value):
      print("removed element",Removed_element)
 
 
-listRemoveLast(b)     
+#coded on 23/10/18
+#To remove all element from the list
+def gonnaEmpty(list):
+     print ("before clearing",list)
+     list.clear()
+     print("Cleared the list",list)
+
+ 
+#count the letter or word from the list
+def countWordFromList(list, word):
+      print("list",list,"word", word)
+      count=list.count(word)
+      print("count of ",word, "is",count)
+        
+
+#get Index of value from the list
+#Element should be inthe list
+def getIndex(list,element):
+    print("list",list,"element",element)
+    index=list.index(element)
+    print("index value of ",element, "is ",index)
+
+
+#index value into particular index
+def InsertNthIndex(list,index,value):
+    print("before insert",list)
+    list.insert(index,value)
+    print("after insert",list)
+
+#example call
+#InsertNthIndex(b,0,"test")
+
+
+#Remove the particular element from the array
+def removeElement(list,element):
+    print("before remove",list)
+    list.remove(element)
+    print("after remove",list)
+
+removeElement(b,1)

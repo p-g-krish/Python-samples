@@ -8,3 +8,5 @@
  #23-oct-18
 5.#list handling new functions added clear,count,index,insert,remove -
 6.#sort need to implement,
+#25/10/18
+7.fetching content from the site using request module - basic only
